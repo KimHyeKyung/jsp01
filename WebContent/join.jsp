@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="reg">
+	<form action="reg.nhn" method="post">
 		<p>
 			<input type="text" name="name" placeholder="이름">
 		</p>
